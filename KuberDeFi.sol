@@ -6,6 +6,7 @@
 // Decimals       : 18
 // Discord        : https://discord.gg/zETFjUETe2
 // Twitter        : https://twitter.com/KuberDeFi
+// Instagram      : https://instagram.com/KuberDeFi
 // Telegram       : https://t.me/KuberDeFi
 // Reddit         : https://reddit.com/r/KuberDeFiOfficial
 
