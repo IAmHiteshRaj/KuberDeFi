@@ -8,7 +8,7 @@
 // Twitter        : https://twitter.com/KuberDeFi
 // Instagram      : https://instagram.com/KuberDeFi
 // Telegram       : https://t.me/KuberDeFi
-// Reddit         : https://reddit.com/r/KuberDeFiOfficial
+// Reddit         : https://www.reddit.com/r/KuberCommunity
 
 
 pragma solidity ^0.8.4;
